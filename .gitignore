@@ -1,0 +1,12 @@
+# Artifacts and build outputs
+build/
+*.o
+*.d
+
+# IDE / OS
+.DS_Store
+.idea/
+*.iml
+
+# Compiled test binaries
+test_fingerprint
