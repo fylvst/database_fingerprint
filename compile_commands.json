@@ -1,0 +1,72 @@
+[
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/src/crypto/crypto_utils.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/src/crypto/crypto_utils.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/src/fingerprint/fingerprint_extractor.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/src/fingerprint/fingerprint_extractor.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/src/fingerprint/fingerprint_generator.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/src/fingerprint/fingerprint_generator.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/src/fingerprint/fingerprint_inserter.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/src/fingerprint/fingerprint_inserter.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/src/fingerprint/types.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/src/fingerprint/types.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/run_tests.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/run_tests.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_crypto.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_crypto.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_extractor.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_extractor.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_generator.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_generator.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_inserter.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_inserter.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_integration.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_integration.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_main.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_main.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_runner.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_runner.cpp"
+  },
+  {
+    "directory": "/Users/fuyu/code/database_fingerprint",
+    "command": "c++ -std=c++17 -Wall -Wextra -O2 -g -I/opt/homebrew/opt/openssl@3/include -c /Users/fuyu/code/database_fingerprint/tests/test_types.cpp -o /dev/null",
+    "file": "/Users/fuyu/code/database_fingerprint/tests/test_types.cpp"
+  }
+]
